@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vision in the Tower to the L. H. in his contemplation.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65133</idno><idno type="EEBO-CITATION">99830954</idno>
+  <idno type="VID">35416</idno>
+  <idno type="EEBO-PROQUEST">2248496947</idno>
+  
+            <idno type="STC">Wing V658C</idno>
+            <idno type="STC">ESTC R219486</idno>
+            <idno type="PROQUEST">99830954</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830954e"/>
+            <note>(EEBO-TCP ; phase 2, no. A65133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2085:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vision in the Tower to the L. H. in his contemplation.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.N.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "And is it so? Or am I in a dream?".</note>
+                  <note>L. H. = William Howard, Baron Howard of Escrick.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Howard of Escrick, William Howard, --  Baron, 1626?-1694 --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Popish Plot, 1678 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:35416:1"/>
+            <head>A VISION In the TOWER, To the L. H. In his CONTEMPLATION.</head>
+            <lg>
+               <l>
+                  <hi>ANd is it so? Or am I in a Dream?</hi>
+               </l>
+               <l>
+                  <hi>Can I be Catcht in that Snare my self did Frame?</hi>
+               </l>
+               <l>
+                  <hi>And am I Catcht? if so, who is the Cause?</hi>
+               </l>
+               <l>
+                  <hi>Can it be those in whom I did Repose?</hi>
+               </l>
+               <l>
+                  <hi>If so, must I rail at their Treachery?</hi>
+               </l>
+               <l>
+                  <hi>No, they must Die by my Industry.</hi>
+               </l>
+               <l>
+                  <hi>I to promote the Factious Interest,</hi>
+               </l>
+               <l>
+                  <hi>Strove to out-strain great</hi> Chitophel's <hi>old Crest.</hi>
+               </l>
+               <l>
+                  <hi>And now my Mercenary men, and I,</hi>
+               </l>
+               <l>
+                  <hi>Must by Laws Regal Institution Die.</hi>
+               </l>
+               <l>
+                  <hi>This Smiling Plot Auspicious did appear,</hi>
+               </l>
+               <l>
+                  <hi>To us Creators of its moving Sheere.</hi>
+               </l>
+               <l>
+                  <hi>It from our Genius drew its right of Birth,</hi>
+               </l>
+               <l>
+                  <hi>Which to preserve, must we submit to Death?</hi>
+               </l>
+               <l>
+                  <hi>No Infant of the Royal Race could be,</hi>
+               </l>
+               <l>
+                  <hi>More Cherisht, than Sweet</hi> Plot <hi>we have done thee.</hi>
+               </l>
+               <l>
+                  <hi>And fearing thou, should'st Faulter, Starve or Die,</hi>
+               </l>
+               <l>
+                  <hi>States great Physitians with their Chymistry,</hi>
+               </l>
+               <l>
+                  <hi>Compounded Antidotes did dayly try,</hi>
+               </l>
+               <l>
+                  <hi>That thou might'st Live Monarchy to Destroy;</hi>
+               </l>
+               <l>
+                  <hi>And must I now, the Brother of thy Father,</hi>
+               </l>
+               <l>
+                  <hi>Both He, and Thee, and I, Die altogether?</hi>
+               </l>
+               <l>
+                  <hi>Yet, my dear Nephew, do not die for fear,</hi>
+               </l>
+               <l>
+                  <hi>Whilst We're Alive, thou need'st not to despair.</hi>
+               </l>
+               <l>
+                  <hi>If those that have this three years bore the weight,</hi>
+               </l>
+               <l>
+                  <hi>Begin to Kick, and do their Rider slight;</hi>
+               </l>
+               <l>
+                  <hi>Upon the backs of others we'l thee pack,</hi>
+               </l>
+               <l>
+                  <hi>Where thou shalt ride <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m, till their Heart strings crack;</hi>
+               </l>
+               <l>
+                  <hi>As men ride Post when every Jade doth tire,</hi>
+               </l>
+               <l>
+                  <hi>Leaves them half Dead, and Belly deep in Mire,</hi>
+               </l>
+               <l>
+                  <hi>Thou still shalt have fresh Pads, to Ride, or Drive,</hi>
+               </l>
+               <l>
+                  <hi>Deer</hi> Plot <hi>ther's none shall live Thee to Survive.</hi>
+               </l>
+               <l>
+                  <hi>If I this Dubious point of Fortune Weather,</hi>
+               </l>
+               <l>
+                  <hi>We'l make thee Eminent, as thy own Father.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ghost,</hi> Vain Mortal Caitif, Scum of Infamy,</l>
+               <l>Is this thy Pennance in Extremity?</l>
+               <l>Canst thou no more relent in this Foresight,</l>
+               <l>But to run Headlong to Eternal Night.</l>
+               <l>Do'st thou not see Grim Death before thee stand,</l>
+               <l>With daring Resolution Thee demand?</l>
+               <l>For thy Sad Soul can no Compassion take,</l>
+               <l>But let it Perish with thy own sought Fate.</l>
+               <l>What Black Ambition can Rebellion bring,</l>
+               <l>'Gainst so Great a God, so Just, so Kind a King.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:35416:2"/>
+               <l>Answer, <hi>Why what art thou that Interrupt'st my Muse,</hi>
+               </l>
+               <l>
+                  <hi>And dost Griefs Contemplation thus abuse?</hi>
+               </l>
+               <l>
+                  <hi>May not I within these damp and dismal Walls,</hi>
+               </l>
+               <l>
+                  <hi>Consult what Rising still produceth Falls;</hi>
+               </l>
+               <l>
+                  <hi>And how Tradition, proves upon Records,</hi>
+               </l>
+               <l>
+                  <hi>We had still Ambitious, and Conspiring Lords?</hi>
+               </l>
+               <l>
+                  <hi>But I must be Confronted by such Spies,</hi>
+               </l>
+               <l>
+                  <hi>As from the Shades of Darkness do arise.</hi>
+               </l>
+               <l>
+                  <hi>And haunt these Naucious, Fulsom, Stinking Cells,</hi>
+               </l>
+               <l>
+                  <hi>Where Antick Spirits, meet to Charm their Spells.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ghost,</hi> No, no, Inhumane Infidel, not so;</l>
+               <l>I am not raised from the Shades below,</l>
+               <l>Nor is't my Office Dungeons to disturb,</l>
+               <l>I am descended from a Higher Orb;</l>
+               <l>Come to convince thy weak <hi>Atheistick</hi> Faith,</l>
+               <l>To make thee know, there is Life after Death.</l>
+               <l>I am the Ghost of <hi>Stafford,</hi> which you Murther'd,</l>
+               <l>Which thy own <hi>Vote,</hi> and all thy Interest further'd.</l>
+               <l>Tho' I a <hi>Howard</hi> am, as well as Thou,</l>
+               <l>So near Ally'd, my <hi>Innocence</hi> you knew,</l>
+               <l>On thy <hi>Honour Guilty;</hi> where's thy Honour now?</l>
+               <l>Why Startled thus, to hear Truth open laid,</l>
+               <l>Behold here's <hi>Staffords-Ghost</hi> without a Head.</l>
+               <l>Thou in my Guiltless Blood thy Hands Imbru'dst,</l>
+               <l>Which Thou in thy Cabals so long pursu'dst.</l>
+               <l>And to prove 'tis no Delusions Influence,</l>
+               <l>Thy Looks (by Sympathy) draws Blood from hence.</l>
+               <l>Thou canst not on me so Prophanely gaze,</l>
+               <l>But my Guiltless Blood, flies in thy Guilty Face.</l>
+               <l>Packt, Perjur'd Emissaries was your Law,</l>
+               <l>Which your black Conscience brib'd to make them so;</l>
+               <l>You at their <hi>Summons</hi> gave the Fatal Blow.</l>
+               <l>And thus poor <hi>Stafford'</hi> s Life was Bought and Sold,</l>
+               <l>By double value, Souls as well as Gold.</l>
+               <l>To which Thou hast such Contribution paid;</l>
+               <l>Beware, the forfeit signifies thy Head.</l>
+               <l>
+                  <hi>Cousin</hi> remember, when I was Condemn'd,</l>
+               <l>To which thy Leading <hi>Vote</hi> did condescend.</l>
+               <l>When <hi>Sentence</hi> on my Innocence was past,</l>
+               <l>The Tears of <hi>Crocodiles,</hi> Thou Wepst as fast,</l>
+               <l>As if too late Compassion thou hadst took,</l>
+               <l>Then in the Crowd You quickly me forsook.</l>
+               <l>Then with the <hi>City Cabals,</hi> You straight return'd,</l>
+               <l>And of your Conquest Boasted, though Suborn'd.</l>
+               <l>Let this thy Conscience move, with Guilty Fears,</l>
+               <l>And go submit unto thy Fellow-Peers,</l>
+               <l>Which have been Captives here almost three Years.</l>
+               <l>Own all thy <hi>Treachery</hi> to Truth, and Them;</l>
+               <l>Think what it is to bear a <hi>Traytors</hi> Name</l>
+               <l>To thee that's Guilty; but much more to Them.</l>
+               <l>Since Thou art Fast, speak Truth, and set them Free,</l>
+               <l>No way else left thee to Eternity.</l>
+               <l>If this great Work of Consequence thou do,</l>
+               <l>'Twill save thy Soul, if not thy Body too.</l>
+               <l>And thus Farewel, these Minutes I did Borrow,</l>
+               <l>Old <hi>Sh</hi> — he'l Condole with Thee to Morrow.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. N.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
